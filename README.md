@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OllieSteam
-- 👀 I’m interested in Open Source Inteligence & Implementation of AI in OSI
+- 👀 I’m interested in Open Source Inteligence & Implementation of AI in OSINT
 - 🌱 I’m currently studying BSc Computer Science 
 - 💞️ I’m looking to collaborate on OSI in warfare
 - 📫 reach me on github
